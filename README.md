@@ -1,2 +1,2 @@
 # logs
-Experimental and Deprecated to use.
+Experimental and Deprecated to use for now.
